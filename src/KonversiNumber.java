@@ -1,5 +1,5 @@
 public class KonversiNumber {
-    public static void main(String[] args) {
+    public static void main(TString[] args) {
         // Widening Casting(Otomatis) : byte > short > int > long > float > double
         // Narrowing Casting (Manual) : double > float > long > int > char > short > byte
         byte iniByte = 10;
